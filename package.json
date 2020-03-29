@@ -1,0 +1,19 @@
+{
+  "name": "node-Assignment-1",
+  "version": "1.0.0",
+  "description": "first task on node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "new",
+    "task"
+  ],
+  "author": "Caesarsage",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
